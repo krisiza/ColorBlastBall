@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color Ball Blast", "Color Ball Blast\Color Ball Blast.csproj", "{27BD6602-9ABC-40DD-9C5F-7822E884F56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BD6602-9ABC-40DD-9C5F-7822E884F56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BD6602-9ABC-40DD-9C5F-7822E884F56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BD6602-9ABC-40DD-9C5F-7822E884F56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BD6602-9ABC-40DD-9C5F-7822E884F56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {366FFCB8-B135-4B0F-88DA-7CA11E36B9E6}
+	EndGlobalSection
+EndGlobal
